@@ -1,0 +1,22 @@
+---
+title: "Final Project Data Description"
+author: "Sydney Steel"
+date: "10/20/2018"
+output: 
+  html_document:
+    theme: journal
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+For my final project I will be using labor force data from Canada, Australia, USA, and the EU in order to evaluate and depict how the percent of females in management position varies by country. Because I am working with microdata from population suverys, the CSV files are too large to push to a github repo. I have uploaded a file from class ("elections-poll-oh01-1.csv") to show I know how to upload csv data to github. 
+
+I plan to make a series of graphics in order to visualize the percent of female managers by occupation in each country, as well as how these levels vary cross-nationally. I also plan to create a preliminary mutli-variate regression that models the percent of female mangers based on several predictive factors, such as overall female labor force participation, size of the welfare state, tertiary education rates, etc. I still have not decided all of the dependent variables.  
+
+
+
+
+
+
